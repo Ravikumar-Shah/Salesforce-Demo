@@ -1,18 +1,16 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Demo Project: Author: Ravikumar Shah
+Current Status: Stage 1 Competed. Stage 2 In Development.
+Last Updated: 24/08/2022
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Objective
+The objective of this demo project is to demonstrate the author's technical knowledge of Salesforce development. 
+Technical Concepts aimed to demonstrate: SLDS, LWC, Apex, SOQL etc.
 
-## How Do You Plan to Deploy Your Changes?
+## About the project
+This App let users add/remove tasks/comments to maintain schedules, arrange meetings with clients etc.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+### Stage 1
+Users can add tasks from the input field and use the add button to store tasks in a local array variable. Users can also remove any task by clicking the delete button available next to tasks.
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+### Stage 2 
+Will be updated once completed.
